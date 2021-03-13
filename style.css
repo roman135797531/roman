@@ -1,0 +1,79 @@
+table{
+    border-collapse: collapse;
+    border: 3px solid black;150, 145, 145);
+    background-color:rgb(180, 180, 180);
+
+}
+
+tr{
+    border: 3px solid black;
+    text-align: center;    
+
+}
+
+td{
+    border: 3px solid black;
+
+}
+
+.oiu{
+    border: 3px solid black;
+}
+
+body{
+    text-align: center;    
+    background-color:rgb(204, 196, 196);
+}
+
+p{
+    text-align: left;
+}
+
+.MMImage-Origin{
+    height: 64px;
+    text-align: left;
+    width: 64px;
+}
+
+.qqq{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px ;
+    margin:0px ;
+}
+
+main{
+    background-color:rgb(180, 180, 180);
+
+li{
+    text-align: left;
+    background-color:rgb(180, 180, 180);
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+.www{
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin: 0px;
+    padding: 12px;
+    background-color: rgb(180, 180, 180);
+}
+
+ol{
+    background-color:rgb(180, 180, 180);
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+    background-color:rgb(180, 180, 180);
+}
+
+.ppp{
+    height: 500px;
+    width: 750px;
+}
